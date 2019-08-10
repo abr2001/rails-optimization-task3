@@ -1,3 +1,7 @@
 /.bundle
 /tmp
 /log
+/public
+
+config/database.yml
+db/structure.sql
